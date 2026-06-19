@@ -1,7 +1,7 @@
 # PORTFOLIO
 ポートフォリオWeb版をPagesで公開するためのリポジトリ
 ## 目次
-[Pinball][1]
+[Pinball][1]\n
 [PaperSumo][2]
 [Clicker Game][3]
 [PlayingCatch][4]
