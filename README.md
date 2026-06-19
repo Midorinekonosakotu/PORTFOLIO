@@ -2,9 +2,9 @@
 ポートフォリオWeb版をPagesで公開するためのリポジトリ
 ## 目次
 [Pinball][1]<br>
-[PaperSumo][2]
-[Clicker Game][3]
-[PlayingCatch][4]
+[PaperSumo][2]<br>
+[Clicker Game][3]<br>
+[PlayingCatch][4]<br>
 
 # --- Pinball ---
 ### 制作時間
